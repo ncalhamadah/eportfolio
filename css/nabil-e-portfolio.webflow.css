@@ -1700,6 +1700,51 @@ figcaption {
   padding-right: 2rem;
 }
 
+.uui-text-size-xlarge {
+  color: #475467;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Fira Sans, Droid Sans, sans-serif;
+  font-size: 1.25rem;
+  line-height: 1.5;
+}
+
+.uui-space-small {
+  width: 100%;
+  min-height: 1.5rem;
+}
+
+.uui-heading-large {
+  color: #101828;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Fira Sans, Droid Sans, sans-serif;
+  font-size: 3rem;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.uui-max-width-large {
+  width: 100%;
+  max-width: 48rem;
+}
+
+.uui-padding-vertical-xhuge-2 {
+  margin-top: -163px;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
+}
+
+.uui-container-large-2 {
+  width: 100%;
+  max-width: 80rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.uui-page-padding-2 {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
 @media screen and (min-width: 1280px) {
   .container {
     margin-bottom: 0;
@@ -2038,6 +2083,15 @@ figcaption {
   }
 
   .uui-padding-vertical-xhuge {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+  }
+
+  .uui-heading-large {
+    font-size: 2.75rem;
+  }
+
+  .uui-padding-vertical-xhuge-2 {
     padding-top: 6rem;
     padding-bottom: 6rem;
   }
@@ -2385,6 +2439,28 @@ figcaption {
     padding-left: 1rem;
     padding-right: 1rem;
   }
+
+  .uui-text-size-xlarge {
+    font-size: 1.125rem;
+  }
+
+  .uui-space-small {
+    min-height: 1.25rem;
+  }
+
+  .uui-heading-large {
+    font-size: 2.25rem;
+  }
+
+  .uui-padding-vertical-xhuge-2 {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+  }
+
+  .uui-page-padding-2 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
 }
 
 @media screen and (max-width: 479px) {
@@ -2539,6 +2615,12 @@ figcaption {
 
 @media screen and (min-width: 1440px) {
   #w-node-ee199399-4292-0e68-906f-11f10478760f-af3c9760, #w-node-ee199399-4292-0e68-906f-11f104787619-af3c9760 {
+    grid-area: span 1 / span 1 / span 1 / span 1;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  #w-node-_16652d38-4770-c2b8-0ce0-167372b3a24f-9b4c001b {
     grid-area: span 1 / span 1 / span 1 / span 1;
   }
 }
