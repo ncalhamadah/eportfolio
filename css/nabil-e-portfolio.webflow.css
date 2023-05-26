@@ -1502,7 +1502,7 @@ figcaption {
 }
 
 .heading {
-  margin-left: 20px;
+  margin-left: 60px;
   margin-right: 20px;
 }
 
@@ -1886,6 +1886,7 @@ figcaption {
   grid-template-columns: 100%;
   grid-auto-columns: 1fr;
   align-items: start;
+  padding-bottom: 0;
   display: grid;
 }
 
@@ -1936,6 +1937,34 @@ figcaption {
 
 .combine-section_faq2 {
   background-color: #f2f3f7;
+}
+
+.image-4 {
+  padding-bottom: 20px;
+}
+
+.image-5 {
+  margin-bottom: 24px;
+}
+
+.text-block-6 {
+  color: #000;
+}
+
+.text-block-7 {
+  padding-left: 30px;
+}
+
+.image-6 {
+  padding-bottom: 40px;
+}
+
+.text-block-8 {
+  color: #000;
+}
+
+.text-span-4 {
+  color: #475467;
 }
 
 @media screen and (min-width: 1280px) {
@@ -2817,7 +2846,7 @@ figcaption {
   }
 }
 
-#w-node-_8f28cf9f-1d2a-e8ff-fb01-a7e198b541c3-dd301602, #w-node-_5aa0a052-0f37-7340-92e1-57ab47745323-dd301602, #w-node-_0779d1ce-3f80-e184-5edb-80c828c686ee-dd301602, #w-node-_68c7bf78-04fa-1782-9e61-cbbb7d50277d-dd301602, #w-node-ee199399-4292-0e68-906f-11f104787604-af3c9760, #w-node-ee199399-4292-0e68-906f-11f10478760f-af3c9760, #w-node-ee199399-4292-0e68-906f-11f104787619-af3c9760, #w-node-ee199399-4292-0e68-906f-11f104787623-af3c9760, #w-node-_602cb2bf-f9ad-26a4-22f4-d7020319bdd5-9b4c001b, #w-node-_602cb2bf-f9ad-26a4-22f4-d7020319bde0-9b4c001b, #w-node-_602cb2bf-f9ad-26a4-22f4-d7020319bdeb-9b4c001b, #w-node-_602cb2bf-f9ad-26a4-22f4-d7020319bdf6-9b4c001b, #w-node-_16652d38-4770-c2b8-0ce0-167372b3a24f-9b4c001b {
+#w-node-_8f28cf9f-1d2a-e8ff-fb01-a7e198b541c3-dd301602, #w-node-_5aa0a052-0f37-7340-92e1-57ab47745323-dd301602, #w-node-_0779d1ce-3f80-e184-5edb-80c828c686ee-dd301602, #w-node-_68c7bf78-04fa-1782-9e61-cbbb7d50277d-dd301602, #w-node-ee199399-4292-0e68-906f-11f104787604-af3c9760, #w-node-ee199399-4292-0e68-906f-11f10478760f-af3c9760, #w-node-ee199399-4292-0e68-906f-11f104787619-af3c9760, #w-node-ee199399-4292-0e68-906f-11f104787623-af3c9760, #w-node-_602cb2bf-f9ad-26a4-22f4-d7020319bdd5-9b4c001b, #w-node-_602cb2bf-f9ad-26a4-22f4-d7020319bde0-9b4c001b, #w-node-_602cb2bf-f9ad-26a4-22f4-d7020319bdeb-9b4c001b, #w-node-_6b7d2761-0a41-35a7-6930-70982121b2d4-9b4c001b, #w-node-_01ba0151-d8bc-9135-2d4f-fd8a48519da1-9b4c001b, #w-node-_602cb2bf-f9ad-26a4-22f4-d7020319bdf6-9b4c001b, #w-node-_16652d38-4770-c2b8-0ce0-167372b3a24f-9b4c001b {
   grid-area: span 1 / span 1 / span 1 / span 1;
 }
 
