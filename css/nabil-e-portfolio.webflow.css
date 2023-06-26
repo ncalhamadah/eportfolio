@@ -3423,7 +3423,7 @@ figcaption {
   }
 }
 
-#w-node-_8f28cf9f-1d2a-e8ff-fb01-a7e198b541c3-dd301602, #w-node-_5aa0a052-0f37-7340-92e1-57ab47745323-dd301602, #w-node-_0779d1ce-3f80-e184-5edb-80c828c686ee-dd301602, #w-node-_68c7bf78-04fa-1782-9e61-cbbb7d50277d-dd301602, #w-node-ee199399-4292-0e68-906f-11f104787604-af3c9760, #w-node-ee199399-4292-0e68-906f-11f10478760f-af3c9760, #w-node-ee199399-4292-0e68-906f-11f104787619-af3c9760, #w-node-ee199399-4292-0e68-906f-11f104787623-af3c9760, #w-node-_16652d38-4770-c2b8-0ce0-167372b3a24f-9b4c001b {
+#w-node-_8f28cf9f-1d2a-e8ff-fb01-a7e198b541c3-dd301602, #w-node-_5aa0a052-0f37-7340-92e1-57ab47745323-dd301602, #w-node-_0779d1ce-3f80-e184-5edb-80c828c686ee-dd301602, #w-node-_68c7bf78-04fa-1782-9e61-cbbb7d50277d-dd301602, #w-node-ee199399-4292-0e68-906f-11f104787604-af3c9760, #w-node-ee199399-4292-0e68-906f-11f10478760f-af3c9760, #w-node-ee199399-4292-0e68-906f-11f104787619-af3c9760, #w-node-ee199399-4292-0e68-906f-11f104787623-af3c9760, #w-node-_5af5fb8e-45e1-c3a3-76c2-8064a6ff26b3-af3c9760, #w-node-_16652d38-4770-c2b8-0ce0-167372b3a24f-9b4c001b {
   grid-area: span 1 / span 1 / span 1 / span 1;
 }
 
@@ -3431,7 +3431,15 @@ figcaption {
   align-self: start;
 }
 
-#w-node-_296e712d-a3d6-5404-33d4-14987c9d5f8a-9b4c001b {
+#w-node-_296e712d-a3d6-5404-33d4-14987c9d5f8a-9b4c001b, #w-node-_16652d38-4770-c2b8-0ce0-167372b3a24f-65aa3b14 {
+  grid-area: span 1 / span 1 / span 1 / span 1;
+}
+
+#w-node-_7427bbc1-c448-dfcc-8a17-50000f386263-65aa3b14, #w-node-_7427bbc1-c448-dfcc-8a17-50000f386269-65aa3b14, #w-node-_7427bbc1-c448-dfcc-8a17-50000f38626f-65aa3b14 {
+  align-self: start;
+}
+
+#w-node-_296e712d-a3d6-5404-33d4-14987c9d5f8a-65aa3b14 {
   grid-area: span 1 / span 1 / span 1 / span 1;
 }
 
@@ -3442,13 +3450,13 @@ figcaption {
 }
 
 @media screen and (max-width: 991px) {
-  #w-node-_16652d38-4770-c2b8-0ce0-167372b3a24f-9b4c001b {
+  #w-node-_16652d38-4770-c2b8-0ce0-167372b3a24f-9b4c001b, #w-node-_16652d38-4770-c2b8-0ce0-167372b3a24f-65aa3b14 {
     grid-area: span 1 / span 1 / span 1 / span 1;
   }
 }
 
 @media screen and (max-width: 767px) {
-  #w-node-_7427bbc1-c448-dfcc-8a17-50000f386259-9b4c001b {
+  #w-node-_7427bbc1-c448-dfcc-8a17-50000f386259-9b4c001b, #w-node-_7427bbc1-c448-dfcc-8a17-50000f386259-65aa3b14 {
     order: -9999;
   }
 }
