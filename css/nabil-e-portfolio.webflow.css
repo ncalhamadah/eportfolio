@@ -2212,7 +2212,9 @@ figcaption {
 }
 
 .uui-faq01_accordion.last-item {
-  border-bottom-color: rgba(0, 0, 0, 0);
+  border: 1px #000;
+  padding-top: 20px;
+  padding-bottom: 0;
 }
 
 .uui-faq01_list {
@@ -3060,6 +3062,17 @@ figcaption {
   border-bottom: 1px solid #000;
   padding-top: 40px;
   padding-bottom: 40px;
+}
+
+.section-6 {
+  border: 1px solid #000;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.image-10 {
+  border-bottom: 1px solid #000;
+  border-left: 1px solid #000;
 }
 
 @media screen and (min-width: 1280px) {
